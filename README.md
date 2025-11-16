@@ -1,5 +1,8 @@
 💬 AI Document Search (RAG Chatbot)
 
+<img width="818" height="577" alt="image" src="https://github.com/user-attachments/assets/67e25775-9fd1-46b1-8b5c-e273d95296a7" />
+
+
 This project is a single-page React application that demonstrates the core architecture of a Retrieval-Augmented Generation (RAG) system. It allows users to upload a document (simulated PDF or TXT), which is then chunked and used as context to answer user questions via the Gemini LLM.
 
 This is an essential portfolio piece for showcasing expertise in modern AI application development, semantic search principles, and robust front-end architecture.
